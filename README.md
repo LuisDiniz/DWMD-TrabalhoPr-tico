@@ -1,0 +1,1 @@
+Trabalho prático da disciplina de Data Warehouse e Mineração de Dados que apresenta o resultado da comparação entre o casos confirmados de zika virus e número de agentes de saúde. Todos os dados foram obtidos pelo portal de transparência do governo.
